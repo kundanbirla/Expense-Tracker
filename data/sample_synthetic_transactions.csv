@@ -1,0 +1,127 @@
+transaction_date,amount,transaction_type,category,description,wasteful_label,need_want,payment_method,context
+2026-07-29,990,expense,Food,Weekly groceries,No,Need,Card,Necessary/urgent
+2026-07-30,35,expense,Travel,Bus fare,No,Need,Card,Necessary/urgent
+2026-07-31,255,expense,Food,Coffee with classmate,Not sure,Want,UPI,Planned
+2026-08-01,45000,income,Salary,Monthly salary,,,UPI,
+2026-08-01,130,expense,Other,Haircut,No,Both,UPI,Other
+2026-08-01,115,expense,Education,Photocopy of notes,No,Need,Card,Planned
+2026-08-02,495,expense,Shopping,Phone cover,No,Want,UPI,Planned
+2026-08-02,200,expense,Travel,Uber ride,No,Both,Other,Planned
+2026-08-03,1140,expense,Shopping,Clothes from Myntra,Yes,Want,Card,Other
+2026-08-03,505,expense,Food,Late night food delivery,No,Want,Cash,Planned
+2026-08-04,190,expense,Other,Donation,No,Both,UPI,Other
+2026-08-04,425,expense,Food,Late night food delivery,Not sure,Want,Cash,Other
+2026-08-05,8000,expense,Bills,Room rent,No,Need,Card,Necessary/urgent
+2026-08-05,135,expense,Travel,Auto to college,No,Need,Other,Planned
+2026-08-05,80,expense,Food,Chai and samosa,No,Both,UPI,Planned
+2026-08-06,70,expense,Food,Canteen lunch,No,Need,Card,Planned
+2026-08-08,125,expense,Food,Canteen lunch,No,Need,UPI,Planned
+2026-08-08,795,expense,Travel,Auto to college,No,Need,UPI,Planned
+2026-08-10,70,expense,Travel,Bus fare,Not sure,Need,UPI,Necessary/urgent
+2026-08-10,580,expense,Shopping,Birthday gift for friend,No,Both,Card,Planned
+2026-08-11,1185,expense,Education,Online course,No,Both,Cash,Other
+2026-08-11,200,expense,Household,Cleaning supplies,No,Need,Card,Necessary/urgent
+2026-08-12,710,expense,Bills,Electricity bill,No,Need,UPI,Necessary/urgent
+2026-08-12,35,expense,Food,Chai and samosa,No,Both,UPI,Other
+2026-08-12,215,expense,Entertainment,Gaming top up,Not sure,Want,Cash,Planned
+2026-08-13,115,expense,Travel,Auto to college,No,Need,UPI,Planned
+2026-08-13,335,expense,Entertainment,Movie tickets,Yes,Want,UPI,Impulse
+2026-08-15,599,expense,Bills,WiFi bill,No,Need,UPI,Necessary/urgent
+2026-08-15,725,expense,Shopping,Clothes from Myntra,No,Want,UPI,Impulse
+2026-08-15,460,expense,Travel,Metro recharge,No,Need,Cash,Necessary/urgent
+2026-08-16,485,expense,Travel,Metro recharge,No,Need,UPI,Planned
+2026-08-17,445,expense,Food,Weekly groceries,No,Need,UPI,Planned
+2026-08-17,75,expense,Food,Chai and samosa,Yes,Both,UPI,Planned
+2026-08-17,415,expense,Food,Lunch with friends,No,Want,UPI,Other
+2026-08-18,4320,income,Freelance,Freelance project payment,,,UPI,
+2026-08-19,845,expense,Travel,Weekend trip transport,Yes,Want,UPI,Planned
+2026-08-19,995,expense,Shopping,Amazon order,Yes,Both,Other,Other
+2026-08-20,299,expense,Bills,Mobile recharge,Not sure,Need,UPI,Necessary/urgent
+2026-08-21,230,expense,Food,Late night food delivery,Yes,Want,Card,Planned
+2026-08-22,80,expense,Other,Laundry,No,Need,UPI,Necessary/urgent
+2026-08-24,130,expense,Education,Stationery for class,No,Need,Card,Planned
+2026-08-25,405,expense,Travel,Uber ride,No,Both,UPI,Other
+2026-08-25,410,expense,Food,Swiggy dinner order,No,Want,Cash,Other
+2026-08-25,85,expense,Travel,Bus fare,No,Need,UPI,Necessary/urgent
+2026-08-25,30,expense,Travel,Bus fare,No,Need,UPI,Necessary/urgent
+2026-08-26,485,expense,Food,Swiggy dinner order,Not sure,Want,UPI,Impulse
+2026-08-26,1955,expense,Health,Protein powder,Yes,Both,Cash,Other
+2026-08-27,625,expense,Entertainment,Bowling with friends,No,Want,Cash,Impulse
+2026-08-27,1190,expense,Health,Protein powder,No,Both,UPI,Other
+2026-08-28,25,expense,Travel,Bus fare,No,Need,Card,Planned
+2026-08-28,415,expense,Food,Lunch with friends,Not sure,Want,UPI,Planned
+2026-08-29,65,expense,Food,Chai and samosa,No,Both,Cash,Planned
+2026-08-29,120,expense,Household,Cleaning supplies,No,Need,UPI,Necessary/urgent
+2026-08-29,1705,expense,Travel,Weekend trip transport,Not sure,Want,UPI,Impulse
+2026-08-31,105,expense,Food,Canteen lunch,No,Need,UPI,Planned
+2026-08-31,12870,expense,Shopping,Amazon order,No,Both,Cash,Other
+2026-09-01,45000,income,Salary,Monthly salary,,,Cash,
+2026-09-01,390,expense,Travel,Uber ride,Yes,Both,UPI,Other
+2026-09-02,565,expense,Entertainment,Gaming top up,Yes,Want,UPI,Impulse
+2026-09-02,70,expense,Food,Chai and samosa,No,Both,Cash,Planned
+2026-09-03,1950,expense,Shopping,Amazon order,Not sure,Both,UPI,Other
+2026-09-03,6435,refund,Shopping,Partial refund: Amazon order,,,UPI,
+2026-09-04,170,expense,Food,Milk and vegetables,No,Need,Cash,Necessary/urgent
+2026-09-04,50,expense,Food,Chai and samosa,No,Both,Other,Other
+2026-09-05,8000,expense,Bills,Room rent,No,Need,Card,Planned
+2026-09-05,470,expense,Health,Medicines from pharmacy,No,Need,UPI,Planned
+2026-09-06,255,expense,Food,Lunch with friends,Yes,Want,UPI,Other
+2026-09-06,480,expense,Food,Late night food delivery,Yes,Want,UPI,Planned
+2026-09-06,975,refund,Shopping,Partial refund: Amazon order,,,UPI,
+2026-09-07,75,expense,Food,Chai and samosa,No,Both,Cash,Other
+2026-09-08,500,expense,Food,Late night food delivery,No,Want,Card,Planned
+2026-09-09,35,expense,Travel,Bus fare,No,Need,Cash,Planned
+2026-09-09,850,expense,Education,Reference book,No,Need,Card,Planned
+2026-09-11,1315,expense,Shopping,Amazon order,No,Both,Cash,Planned
+2026-09-12,765,expense,Bills,Electricity bill,No,Need,UPI,Planned
+2026-09-12,675,expense,Education,Online course,Yes,Both,UPI,Planned
+2026-09-12,440,expense,Food,Lunch with friends,Yes,Want,UPI,Impulse
+2026-09-13,25,expense,Food,Chai and samosa,No,Both,UPI,Other
+2026-09-13,120,expense,Food,Canteen lunch,No,Need,UPI,Planned
+2026-09-15,599,expense,Bills,WiFi bill,No,Need,Card,Planned
+2026-09-18,9525,income,Freelance,Freelance project payment,,,UPI,
+2026-09-18,475,expense,Food,Swiggy dinner order,Yes,Want,UPI,Other
+2026-09-18,40,expense,Food,Chai and samosa,No,Both,Cash,Other
+2026-09-18,190,expense,Food,Milk and vegetables,No,Need,UPI,Planned
+2026-09-19,215,expense,Food,Coffee with classmate,Not sure,Want,Card,Other
+2026-09-20,299,expense,Bills,Mobile recharge,No,Need,UPI,Necessary/urgent
+2026-09-21,85,expense,Education,Photocopy of notes,No,Need,UPI,Planned
+2026-09-22,40,expense,Travel,Bus fare,No,Need,Card,Planned
+2026-09-22,95,expense,Food,Milk and vegetables,No,Need,Cash,Necessary/urgent
+2026-09-22,2125,expense,Shopping,Clothes from Myntra,Yes,Want,UPI,Other
+2026-09-23,330,expense,Travel,Metro recharge,No,Need,UPI,Planned
+2026-09-24,490,expense,Food,Late night food delivery,No,Want,UPI,Other
+2026-09-24,305,expense,Food,Swiggy dinner order,No,Want,UPI,Other
+2026-09-24,185,expense,Other,Donation,No,Both,UPI,Planned
+2026-09-25,190,expense,Food,Milk and vegetables,No,Need,Card,Necessary/urgent
+2026-09-25,40,expense,Food,Chai and samosa,Not sure,Both,UPI,Other
+2026-09-26,230,expense,Entertainment,Netflix subscription,Yes,Want,Card,Impulse
+2026-09-26,175,expense,Other,Haircut,No,Both,Card,Planned
+2026-09-28,95,expense,Food,Canteen lunch,No,Need,UPI,Necessary/urgent
+2026-09-28,480,expense,Shopping,Amazon order,No,Both,UPI,Planned
+2026-09-28,90,expense,Travel,Auto to college,No,Need,Cash,Planned
+2026-09-29,395,expense,Food,Swiggy dinner order,Yes,Want,Card,Impulse
+2026-09-29,615,expense,Food,Weekly groceries,No,Need,Other,Planned
+2026-09-30,50,expense,Education,Photocopy of notes,No,Need,UPI,Planned
+2026-09-30,225,expense,Travel,Metro recharge,No,Need,Other,Planned
+2026-10-01,45000,income,Salary,Monthly salary,,,UPI,
+2026-10-01,1045,expense,Shopping,Birthday gift for friend,No,Both,Card,Other
+2026-10-01,360,expense,Food,Swiggy dinner order,No,Want,Card,Impulse
+2026-10-02,440,expense,Travel,Uber ride,No,Both,UPI,Other
+2026-10-02,440,expense,Health,Medicines from pharmacy,No,Need,Cash,Necessary/urgent
+2026-10-03,480,expense,Food,Swiggy dinner order,Yes,Want,Cash,Other
+2026-10-03,45,expense,Travel,Bus fare,No,Need,UPI,Necessary/urgent
+2026-10-04,630,expense,Food,Weekly groceries,No,Need,Other,Necessary/urgent
+2026-10-04,4505,expense,Entertainment,Gaming top up,Yes,Want,Cash,Impulse
+2026-10-05,8000,expense,Bills,Room rent,No,Need,Cash,Necessary/urgent
+2026-10-05,70,expense,Education,Photocopy of notes,No,Need,Cash,Necessary/urgent
+2026-10-05,120,expense,Food,Canteen lunch,No,Need,UPI,Planned
+2026-10-06,600,expense,Household,Kitchen utensils,No,Need,UPI,Planned
+2026-10-07,335,expense,Food,Swiggy dinner order,No,Want,UPI,Other
+2026-10-08,75,expense,Travel,Bus fare,No,Need,Cash,Planned
+2026-10-08,190,expense,Other,Laundry,Not sure,Need,Card,Necessary/urgent
+2026-10-09,140,expense,Food,Coffee with classmate,Yes,Want,Cash,Impulse
+2026-10-09,995,expense,Health,Protein powder,Not sure,Both,UPI,Other
+2026-10-10,2015,expense,Health,Protein powder,No,Both,Card,Other
+2026-10-11,1495,expense,Shopping,Birthday gift for friend,No,Both,UPI,Planned
+2026-10-11,140,expense,Travel,Auto to college,No,Need,UPI,Planned

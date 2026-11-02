@@ -1,0 +1,80 @@
+text,category,context
+Late night food delivery,Food,discretionary
+friend ke saath dinner,Food,discretionary
+college ke liye books kharidi,Education,essential
+bought vegetables and milk for the week,Food,essential
+Ordered Domino's pizza at 1am,Food,discretionary
+sabzi aur doodh liya,Food,essential
+Coffee at Starbucks with a classmate,Food,discretionary
+Lunch at college canteen,Food,mixed
+Midnight snacks from blinkit,Food,discretionary
+Bought rice dal and oil from kirana,Food,essential
+Chai and bun maska,Food,mixed
+Ice cream with cousins,Food,discretionary
+Lunch with team after project delivery,Food,mixed
+Pizza and cold drinks for movie night,Food,discretionary
+Hostel mess fee,Food,essential
+metro recharge for going to college,Travel,essential
+Uber to the airport,Travel,mixed
+trip to Jaipur with friends hotel booking,Travel,discretionary
+petrol for scooty,Travel,mixed
+bus ticket to office,Travel,essential
+flight tickets for Goa holiday,Travel,discretionary
+auto se ghar gaya,Travel,mixed
+Cab to railway station at night,Travel,mixed
+Monthly local train pass,Travel,essential
+Weekend getaway to Lonavala,Travel,discretionary
+Toll and fuel for road trip,Travel,discretionary
+New sneakers from Nike sale,Shopping,discretionary
+Bought a gift for sister's birthday,Shopping,mixed
+need new chappal old one broke,Shopping,essential
+Amazon wireless earbuds,Shopping,discretionary
+kapde khareede Diwali ke liye,Shopping,mixed
+Bought a backpack for college,Shopping,mixed
+Online shopping spree,Shopping,discretionary
+Paid semester tuition,Education,essential
+Udemy python course,Education,mixed
+Bought novels from bookstore for fun,Education,discretionary
+GATE coaching installment,Education,mixed
+printed assignment at cyber cafe,Education,essential
+Exam registration fee,Education,essential
+Online course for placement prep,Education,mixed
+electricity bill for September,Bills,essential
+Jio recharge 299,Bills,essential
+Paid house rent to owner,Bills,essential
+WiFi router plan renewal,Bills,essential
+Airtel DTH recharge,Bills,mixed
+LIC premium payment,Bills,essential
+Home loan EMI,Bills,essential
+Gas cylinder booking,Bills,essential
+ghar ka bijli bill bhara,Bills,essential
+Netflix monthly plan,Entertainment,discretionary
+watched a movie at inox,Entertainment,discretionary
+bought skins in Free Fire,Entertainment,discretionary
+IPL match tickets,Entertainment,discretionary
+spotify family plan,Entertainment,discretionary
+Playstation game purchase,Entertainment,discretionary
+Concert pass,Entertainment,discretionary
+College fest tickets,Entertainment,discretionary
+Doctor visit for fever,Health,essential
+bought medicines for cold,Health,essential
+Monthly gym fee,Health,mixed
+protein supplements from Amazon,Health,mixed
+Dental cleaning at clinic,Health,essential
+body massage at spa,Health,discretionary
+Glasses from optician,Health,essential
+Yoga classes,Health,mixed
+Plumber fixed kitchen tap,Household,essential
+bought new mop and detergent,Household,essential
+Decor items for my room,Household,discretionary
+purchased a study table,Household,mixed
+bai ko salary,Household,essential
+Bought lamp and wall art,Household,discretionary
+Donation at temple,Other,mixed
+Laundry for the week,Other,essential
+Haircut at salon,Other,mixed
+ATM charges,Other,essential
+Misc expense,Other,mixed
+Courier to send documents,Other,essential
+Passport renewal fees,Other,essential
+Tip for waiter,Other,mixed

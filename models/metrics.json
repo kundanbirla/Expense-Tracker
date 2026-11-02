@@ -1,0 +1,115 @@
+{
+  "n_train_rows": 3804,
+  "n_seed_phrases": 317,
+  "n_handwritten_test": 79,
+  "cv_category": {
+    "accuracy": 0.5074,
+    "macro_f1": 0.4875,
+    "macro_precision": 0.4954,
+    "macro_recall": 0.4904
+  },
+  "cv_context": {
+    "accuracy": 0.5297,
+    "macro_f1": 0.5236,
+    "macro_precision": 0.5243,
+    "macro_recall": 0.5234
+  },
+  "cv_category_calibration": [
+    {
+      "band": "low (<0.35)",
+      "n": 839,
+      "accuracy": 0.194,
+      "mean_confidence": 0.256
+    },
+    {
+      "band": "medium",
+      "n": 1257,
+      "accuracy": 0.445,
+      "mean_confidence": 0.47
+    },
+    {
+      "band": "high (>=0.60)",
+      "n": 1708,
+      "accuracy": 0.707,
+      "mean_confidence": 0.809
+    }
+  ],
+  "cv_baseline_nb_category": {
+    "accuracy": 0.5034,
+    "macro_f1": 0.4833,
+    "macro_precision": 0.487,
+    "macro_recall": 0.4892
+  },
+  "cv_baseline_nb_context": {
+    "accuracy": 0.5373,
+    "macro_f1": 0.5243,
+    "macro_precision": 0.5254,
+    "macro_recall": 0.5271
+  },
+  "test_category": {
+    "accuracy": 0.9367,
+    "macro_f1": 0.9366,
+    "macro_precision": 0.9572,
+    "macro_recall": 0.9306
+  },
+  "test_context": {
+    "accuracy": 0.8481,
+    "macro_f1": 0.8428,
+    "macro_precision": 0.846,
+    "macro_recall": 0.8407
+  },
+  "test_category_calibration": [
+    {
+      "band": "low (<0.35)",
+      "n": 3,
+      "accuracy": 0.333,
+      "mean_confidence": 0.282
+    },
+    {
+      "band": "medium",
+      "n": 3,
+      "accuracy": 0.667,
+      "mean_confidence": 0.518
+    },
+    {
+      "band": "high (>=0.60)",
+      "n": 73,
+      "accuracy": 0.973,
+      "mean_confidence": 0.931
+    }
+  ],
+  "baselines_test_category": {
+    "majority_class": {
+      "accuracy": 0.1772,
+      "macro_f1": 0.0335,
+      "macro_precision": 0.0197,
+      "macro_recall": 0.1111
+    },
+    "tfidf_complement_nb": {
+      "accuracy": 0.9747,
+      "macro_f1": 0.9765,
+      "macro_precision": 0.9833,
+      "macro_recall": 0.9722
+    }
+  },
+  "baselines_test_context": {
+    "majority_class": {
+      "accuracy": 0.3924,
+      "macro_f1": 0.1879,
+      "macro_precision": 0.1308,
+      "macro_recall": 0.3333
+    },
+    "tfidf_complement_nb": {
+      "accuracy": 0.8734,
+      "macro_f1": 0.867,
+      "macro_precision": 0.8767,
+      "macro_recall": 0.864
+    }
+  },
+  "test_confidence_level_counts": {
+    "high": 71,
+    "medium": 5,
+    "low": 3
+  },
+  "n_test_errors": 15
+}
